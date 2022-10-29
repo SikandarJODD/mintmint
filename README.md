@@ -41,7 +41,7 @@ Go in Server Folder
 
 # Application will be Run on Localhost 3000
 
-![Screenshot](localhost1.png/300*400)
+![Screenshot](localhost1.png)
 
 # Registration of User
 
