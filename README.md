@@ -1,8 +1,54 @@
-# Steps to Start the App
 
-## Install the Public Dependencies
-## Install the Server Dependencies
-## In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
-## Now start the server by yarn start
-## Now start the react by yarn start
-## And the chat application would be running successfully by now.
+# Vppcoe Chat Application
+
+This Application is Built using React Js. 
+Simple Web Chat Application 
+
+
+
+## Installation
+
+Install Project using Git
+
+```bash
+  git clone https://github.com/SikandarJODD/mint.git
+  cd mint
+```
+
+
+# Connection Database using MongoDb
+ 
+ Specify the Database Name
+
+```bash
+mongodb://localhost:27017/DatabaseName
+
+```
+## Install the Dependencies on your System
+
+1] Go in Public Folder 
+
+```bash
+    cd public
+    npm i
+    npm start
+```
+ Go in Server Folder 
+
+```bash
+    cd server
+    npm i
+    npm start
+```
+
+
+# Application will be Run on Localhost 3000
+
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/SikandarJODD/mintmint.git/localhost1.png)
+
