@@ -50,5 +50,5 @@ mongodb://localhost:27017/DatabaseName
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SikandarJODD/mintmint.git/localhost1.png?raw=true)
+![Screenshot](localhost1.png)
 
