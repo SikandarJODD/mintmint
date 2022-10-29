@@ -1,10 +1,7 @@
-
 # Vppcoe Chat Application
 
-This Application is Built using React Js. 
-Simple Web Chat Application 
-
-
+This Application is Built using React Js.
+Simple Web Chat Application
 
 ## Installation
 
@@ -15,25 +12,26 @@ Install Project using Git
   cd mint
 ```
 
-
 # Connection Database using MongoDb
- 
- Specify the Database Name
+
+Specify the Database Name
 
 ```bash
 mongodb://localhost:27017/DatabaseName
 
 ```
+
 ## Install the Dependencies on your System
 
-1] Go in Public Folder 
+1] Go in Public Folder
 
 ```bash
     cd public
     npm i
     npm start
 ```
- Go in Server Folder 
+
+Go in Server Folder
 
 ```bash
     cd server
@@ -41,14 +39,16 @@ mongodb://localhost:27017/DatabaseName
     npm start
 ```
 
-
 # Application will be Run on Localhost 3000
 
+![Screenshot](localhost1.png/300*400)
 
+# Registration of User
 
+![Screenshot](image2.png)
 
+# Chat Application
 
-## Screenshots
+![Screenshot](img4.png)
 
-![Screenshot](localhost1.png)
 
